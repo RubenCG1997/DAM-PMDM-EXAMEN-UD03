@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Fondo">#F4FF81</color>
+    <color name="lbl_info">#303F9F</color>
+    <color name="txt_barra_info">#80D8FF</color>
+    <color name="btn_Color">#84FFFF</color>
+    <color name="btn_Color_texto">#000000</color>
+</resources>

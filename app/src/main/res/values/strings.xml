@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Examen-PMDM-UD03</string>
+    <string name="lbl_info1">Título de la encuesta</string>
+    <string name="txt_nombre">Nombre persona encuestada</string>
+    <string name="lbl_info2">Género:</string>
+    <string name="rb1Eleccion1">Hombre</string>
+    <string name="rb2Eleccion2">Mujer</string>
+    <string name="rb3Eleccion3">Otro</string>
+    <string name="swc">Es mayor de edad:</string>
+    <string name="lbl_info3">Pregunta:</string>
+    <string name="lbl_info4">Respuesta:</string>
+    <string name="rb_respuesta1">RadioButton</string>
+    <string name="rb_respuesta2">RadioButton</string>
+    <string name="rb_respuesta3">RadioButton</string>
+    <string name="btn_envio">Enviar Respuesta</string>
+    <string name="cb">Mostrar información por Log</string>
+    <string-array name="preguntasMayor">
+        <item>¿De que color es el cielo?</item>
+        <item>¿De que color es el tronco de un arbol?</item>
+    </string-array>
+    <string name="respuestaMa1_1">Azul</string>
+    <string name="respuestaMa1_2">Verde</string>
+    <string name="respuestaMa1_3">Morado</string>
+    <string name="respuestaMa2_1">Negro</string>
+    <string name="respuestaMa2_2">Blanco</string>
+    <string name="respuestaMa2_3">Marron</string>
+    <string-array name="preguntasMenor">
+        <item>¿Cuanto es 1+1?</item>
+        <item>¿Cuanto es 2+2?</item>
+    </string-array>
+    <string name="respuestaMe1_1">2</string>
+    <string name="respuestaMe1_2">3</string>
+    <string name="respuestaMe1_3">-1</string>
+    <string name="respuestaMe2_1">0</string>
+    <string name="respuestaMe2_2">4</string>
+    <string name="respuestaMe2_3">2</string>
+    <string name="envioCorrecto">Respuesta enviada</string>
+    <string name="envioIncorrecto1">Falta el nombre</string>
+    <string name="envioIncorrecto2">No se seleccionaron respuestas</string>
+</resources>
